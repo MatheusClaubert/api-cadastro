@@ -73,11 +73,3 @@ app.listen(3000)
     - Editar um usuários
     - Deletar um usuários
 */
-
-/* 
-    1) Tipo de Rota / Método HTTP
-    2) Endereço
-
-    rodolfo
-    bXHXKQ9LnDKyTooE
-*/
